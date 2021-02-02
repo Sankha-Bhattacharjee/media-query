@@ -1,5 +1,5 @@
 # media-query
-This website contains a simple interactive signin-signup form using just html, css , javascript.
+This website contains a simple interactive signin-signup form template using just html, css , javascript.
 
 
 It does not use any framework like bootstrap.
